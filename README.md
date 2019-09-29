@@ -2,7 +2,7 @@
 Open-Source Library For Swarm Algorithm And Communication
 
 Imitation  of  swarming  behaviors  of social animals  offers a new way of designing systems due to simple rules,
-local interactions, ro-bustness, scalability, and flexibility. Following this method, a swarm of multiple  robots can
+local interactions, robustness, scalability, and flexibility. Following this method, a swarm of multiple  robots can
 cooperatively  achieve  a  goal  with  collective  intelligence. However, only a few such robotic systems are 
 developed, and again very few are deployed outside  of lab environments. The reason behind this is the lack of 
 easy-to-deploy communication stack and a versatile library of essential swarm building functions from a hardware perspective.
