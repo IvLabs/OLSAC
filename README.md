@@ -9,5 +9,5 @@ easy-to-deploy communication stack and a versatile library of essential swarm bu
 As a result, most researchers choose the option of simulationonly. Hence we present an open-source
 library integrated with a communication stack and tools which simplifies the process of hardware-level implementation
 of swarm algorithms. As the library presents multiple functions which are identified as basic building blocks of various swarm algorithms,
-it helps the user in creating futurealgorithms. Also,  this  library is open for collaborations from community and has
+it helps the user in creating future algorithms. Also,  this  library is open for collaborations from community and has
 a potential to become single solution for all swarm related applications.
