@@ -1,0 +1,2 @@
+CV:beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/mayuresh/search_and_rescue/devel -DCMAKE_INSTALL_PREFIX=/home/mayuresh/search_and_rescue/install -G Unix Makefiles

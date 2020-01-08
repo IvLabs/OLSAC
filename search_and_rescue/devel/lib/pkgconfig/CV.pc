@@ -1,0 +1,8 @@
+prefix=/home/mayuresh/search_and_rescue/devel
+
+Name: CV
+Description: Description of CV
+Version: 0.0.0
+Cflags: -I/home/mayuresh/search_and_rescue/devel/include -I/home/mayuresh/search_and_rescue/src/CV/include
+Libs: -L/home/mayuresh/search_and_rescue/devel/lib -lCV
+Requires: roscpp rospy std_msgs message_runtime

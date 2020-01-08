@@ -1,0 +1,1 @@
+pose[] way_pt
